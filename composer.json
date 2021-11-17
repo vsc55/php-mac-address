@@ -1,9 +1,14 @@
 {
-    "name": "blake-gardner/mac-address",
-    "description": "Get, validate and generate MAC addresses.",
+    "name": "vsc55/mac-address",
+    "description": "Get, validate and generate MAC addresses. (Fork BlakeGardner/php-mac-address)",
     "license": "MIT",
-    "keywords": ["MAC", "Address", "IP", "ifconfig", "DHCP"],
+    "keywords": ["MAC", "Address", "IP", "ifconfig", "DHCP", "UNIX", "LINUX"],
     "authors": [
+        {
+            "name": "Javier Pastor",
+            "email": "vsc55@cerebelum.net",
+            "role": "Developer"
+        },
         {
             "name": "Blake Gardner",
             "email": "blakegardner@cox.net"
